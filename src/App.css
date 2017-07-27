@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+.x{
+  text-align: center;
+}
+.button{
+  text-align: right;
+}
+.doc-tablewrapper {
+    margin: 10px 0;
+}
+.doc-table {
+    border-collapse: collapse;
+    width: 100%;
+    border: solid 1px #d0dee0;
+}
+.doc-table th {
+    background-color: #d0dee0;
+    font-weight: bold;
+    padding: 8px 14px;
+    font-size: 16px;
+}
+.doc-table tbody td {
+    color: #404C51;
+    padding: 8px 14px;
+    border: 1px solid #E5EBF0;
+    font-size: 15px;
+    opacity: .90;
+}
+.doc-table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+}
+.doc-table tbody tr:nth-child(odd) {
+    background-color: #e6eeef;
+}
+.ui-datalist .ui-datalist-header,
+.ui-datalist .ui-datalist-footer {
+    text-align:center;
+	padding: .5em .75em;
+}
+
+.ui-datalist .ui-datalist-header {
+    border-bottom: 0 none;
+}
+
+.ui-datalist .ui-datalist-footer {
+    border-top: 0 none;
+}
+
+.ui-datalist .ui-paginator {
+    border-top: 0 none;
+}
+
+.ui-datalist .ui-datalist-data {
+    margin: 0;
+    padding: 0;
+}
+
+.ui-datalist .ui-datalist-data > li {
+    list-style-type: none;
+    
+}
