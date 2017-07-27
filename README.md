@@ -1,3 +1,7 @@
+PrimeReact Components are used in this project.
+After you create a default project with npm commands, you should install PrimeReact module. 
+https://www.primefaces.org/primereact/#/setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
